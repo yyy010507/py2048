@@ -22,7 +22,7 @@ The game 2048, playable in your terminal. Pure Python, no dependencies.
 Requires Python 3.9 or newer.
 
 ```bash
-git clone https://github.com/YOUR_NAME/py2048.git
+git clone https://github.com/yyy010507/py2048.git
 cd py2048
 python -m game2048
 ```
